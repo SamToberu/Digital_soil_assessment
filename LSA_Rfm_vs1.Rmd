@@ -81,7 +81,7 @@ sidebar {.sidebar}
 ```{r}
  textInput(inputId = "caption",
                 label = "Caption:",
-                value = "Plot, Accuracy and Precision")
+                value = "Land Suitability Suite")
       
       # Input: Selector for choosing dataset ----
       selectInput(inputId = "dataset",
